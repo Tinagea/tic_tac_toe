@@ -1,6 +1,14 @@
 # tic_tac_toe
 
-A new Flutter project.
+Simple tic_tac_toe game 
+Created using Android Studio and Flutter.
+Open Android Studio. Click on New => Project from Version control. Past project Url in correct field. Project will open. Click trust project when prompt. Project will finish loading
+Open device managment
+Choose virtual device
+Click green play button 
+Project will open on emulator.
+
+Try building project by following along with the tutorial (https://www.geeksforgeeks.org/flutter-building-a-tic-tac-toe-game/)
 
 ## Getting Started
 
